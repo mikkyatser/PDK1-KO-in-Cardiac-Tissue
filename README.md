@@ -1,2 +1,4 @@
 # PDK1-KO-in-Cardiac-Tissue
-R scripts for https://www.biorxiv.org/content/10.64898/2026.07.30.741875v1.abstract 
+Annotated R scripts of data processing/analysis of lipidomics, proteomics and metabolomics data. with all necessary input and output files to run the codes.
+
+Brief Experimental Design: we knocked out the Pdk1 gene in mouse cardiomyocytes (Pdk1cKO) by breeding heterozygous floxed mice containing loxP sequences flanking the second exon of the gene17 with tamoxifen-inducible Cre mice under the influence of the cardiomyocyte-specific Myh6 promoter to generate wildtype Cre controls (Pdk1wt/wt;Myh6CreERT), Pdk1cHET (Pdk1fl/wt;Myh6CreERT), and Pdk1cKO (Pdk1fl/fl;Myh6CreERT) mice. The offspring were weaned onto a high fat diet at 3 weeks and then injected with either corn oil as a vehicle control or tamoxifen to induce activation of Cre recombinase at 8-10 weeks. Two weeks after tamoxifen injection, there was a decrease in Pdk1 mRNA expression in Pdk1cKO hearts relative to control hearts of both male and female mice.
